@@ -2,7 +2,4 @@
 for test only
 echo("python")
 echo ("this is jenkins webhook")
-Jenkins
-Docker
-finished.
-its done .
+echo("I am Pranjali Gupta") 
